@@ -1,0 +1,1 @@
+1、及时去github上下载最新的纯真数据库文件qqwry.dat到本地进行覆盖：https://github.com/WisdomFusion/qqwry.dat
