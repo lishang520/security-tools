@@ -1,0 +1,3 @@
+lxml==4.6.3
+openpyxl==3.0.7
+requests==2.25.0
